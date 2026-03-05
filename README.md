@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">👩🏻‍💻 <br><br><br>Me chamo Daphne Barreiro Patuzzi, tenho 28 anos e sou natural do Espirito Santo. Concluí o ensino médio no UP, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou apaixonada por tecnologia com sólida trajetória em gestão e otimização de fluxos de trabalho. Possuo experiência prática e significativa em projetos de processos junto a diversas organizações.</p>
+<p align="left">👩🏻‍💻 Me chamo Daphne Barreiro Patuzzi, tenho 28 anos e sou natural do Espirito Santo. Concluí o ensino médio no UP, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na Unicesumar. Sou apaixonada por tecnologia com sólida trajetória em gestão e otimização de fluxos de trabalho. Possuo experiência prática e significativa em projetos de processos junto a diversas organizações.</p>
 
 ###
 
