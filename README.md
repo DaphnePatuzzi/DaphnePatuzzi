@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Olá, sejam bem vindos ao meu GitHub👋</h2>
+<h2 align="left">Olá, seja bem vindo ao meu GitHub👋</h2>
 
 ###
 
